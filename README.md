@@ -1,2 +1,2 @@
 # helm-nginx-deployment
-UDACITY SUSE NANODEGREE TASK
+Cloud Native Fundamentals Scholarship Program (Nanodegree Program)
